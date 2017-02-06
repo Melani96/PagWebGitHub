@@ -1,1 +1,19 @@
 @CHARSET "UTF-8";
+
+div#logo> img {
+	width: 20%;
+}
+
+header {
+	background-color:red;
+	padding-bottom:1px;
+}
+
+div.contenedorFlex{
+	display:flex;
+	flex-direction:row;
+}
+
+nav#menu {
+	
+}
